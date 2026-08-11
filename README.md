@@ -1,2 +1,2 @@
 # Gen2-Recomp-Automatic-Clock-
-This Mod is for the Gen2 Pokemon Recomp. With this mod you can skip the sequence of setting the date and time upon starting a new game, mom now gives the pokegear without the extended tutorial. With this mod the process of starting a new game should be a little more streamlined.
+Automatic Clock streamlines the beginning of Pokémon Gold by syncing the game's clock with your device's local date and time. This removes the need to manually configure the clock and makes the opening Pokégear sequence quicker and more natural, while preserving the original game's story and progression.
